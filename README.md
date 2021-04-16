@@ -131,4 +131,3 @@ Para cualquier duda o aclaración puedes levantar un issue en el presente reposi
 
 3. El presente repositorio al igual que todos los referenciados en el mismo, tienen el único objetivo de ayudar, el plagio y el tergiversar  con el conocimiento están fuera de mis alcances por lo que no me hago responsable del mal uso que se le pueda llegar a dar al contenido compartido.
 
-4. ”Queda prohibido el uso para fines distintos a los establecidos en la presente sección, así como la copia parcial o total del contenido de la misma”
