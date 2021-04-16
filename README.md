@@ -74,7 +74,6 @@ El presente repositorio es el índice de todos los repositorios académicos* de 
 
 - [Compiladores](https://github.com/aMurryFly/7_semestre/tree/master/compiladores) | Adrian Ulises Mercado Martínez
 - [Introducción a la Economía](https://github.com/aMurryFly/7_semestre/tree/master/economia) | Alejandro César Lípez Bolaños
-
 - [Finanzas](https://github.com/aMurryFly/7_2_semestre/tree/master/finanzas) | Claudia Angélica Cordero
 - [Sistemas de Comunicaciones](https://github.com/aMurryFly/7_2_semestre/tree/master/sistemasComunicaciones/teoria) | Adán Bonilla Chavez
 - [Laboratorio de Sistemas de Comunicaciones](https://github.com/aMurryFly/7_2_semestre/tree/master/sistemasComunicaciones/laboratorio) | Dolores Alejandra Vasquez Carbajal
@@ -87,13 +86,9 @@ El presente repositorio es el índice de todos los repositorios académicos* de 
 - [Redes de Datos Seguras (CCNA - CISCO) ](https://github.com/aMurryFly/CCNA_CISCO) | ING. José Antonio
 - [Laboratorio de Computación Gráfica](https://github.com/aMurryFly/CompuGrafica-VLSI/tree/main/ComputoGrafico/Laboratorio) | Luis Sergio Valencia
 - [Computación Gráfica](https://github.com/aMurryFly/CompuGrafica-VLSI) | Jose Roque Roman G.
-
 - [Microcomputadoras](https://github.com/aMurryFly/8_semestre/tree/main/Microcomputadoras) | M.I. Ruben Anaya
-
 - [Laboratorio de Microcomputadoras](https://github.com/aMurryFly/8_semestre/tree/main/Microcomputadoras) | M.I. Ruben Anaya
-
 - [Ética Profesional](https://github.com/aMurryFly/7_2_semestre/tree/master/etica) | Olinca Suarez Mejía
-
 - Literatura | MES. Margarita Puebla
 
 
@@ -101,7 +96,6 @@ El presente repositorio es el índice de todos los repositorios académicos* de 
 ### Semestre 9
 
 - [Recursos y Necesidades de México](https://github.com/aMurryFly/7_2_semestre/tree/master/recursosNecesidades) | Eduardo Carranza Torres
-
 - [Sistemas Distribuidos](https://github.com/aMurryFly/8_semestre/tree/main/SistemasDistribuidos) | ING. José Antonio 
 
 
@@ -109,8 +103,6 @@ El presente repositorio es el índice de todos los repositorios académicos* de 
 ### Semestre 10
 
 - [Negocios Electrónicos y desarrollo web](https://github.com/aMurryFly/8_semestre/tree/main/NegociosDesarrollo) | M.I.A Luis Arenas
-
-
 - [Computación Gráfica Avanzada](https://github.com/aMurryFly/ComputacionGraficaAvanzada) | ING. Reynaldo Martell
 
 
